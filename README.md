@@ -1,3 +1,1 @@
-"# StudyBuddy" 
-"# StudyBuddy" 
-"# StudyBuddy" 
+This Web Application is still in development.
