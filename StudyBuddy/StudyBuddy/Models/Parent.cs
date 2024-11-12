@@ -9,10 +9,10 @@ namespace StudyBuddy.Models
         public int ParentId { get; set; }
 
         [Required]
-        public string ParentCode { get; set; }
+        public string? ParentCode { get; set; }
 
         [ForeignKey("User")]
         public int UserId { get; set; }
-        public User User { get; set; }
+        public User? User { get; set; }
     }
 }

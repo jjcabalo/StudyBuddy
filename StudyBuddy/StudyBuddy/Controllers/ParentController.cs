@@ -4,7 +4,7 @@ namespace StudyBuddy.Controllers
 {
     public class ParentController : Controller
     {
-        public IActionResult Index()
+        public IActionResult StudentManagement()
         {
             return View();
         }

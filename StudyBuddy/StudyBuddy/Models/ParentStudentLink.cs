@@ -10,11 +10,11 @@ namespace StudyBuddy.Models
 
         [ForeignKey("Parent")]
         public int ParentId { get; set; }
-        public Parent Parent { get; set; }
+        public Parent? Parent { get; set; }
 
         [ForeignKey("Student")]
         public int StudentId { get; set; }
-        public Student Student { get; set; }
+        public Student? Student { get; set; }
 
         public DateTime CreatedAt { get; set; }
     }

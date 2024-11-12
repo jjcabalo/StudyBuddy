@@ -5,6 +5,70 @@
       "PackagePath": "staticwebassets\\StudyBuddy.bundle.scp.css"
     },
     {
+      "Id": "D:\\VS\\Projects\\StudyBuddy\\StudyBuddy\\wwwroot\\assets\\Student\\BAdd.png",
+      "PackagePath": "staticwebassets\\assets\\Student\\BAdd.png"
+    },
+    {
+      "Id": "D:\\VS\\Projects\\StudyBuddy\\StudyBuddy\\wwwroot\\assets\\Student\\BConnect.png",
+      "PackagePath": "staticwebassets\\assets\\Student\\BConnect.png"
+    },
+    {
+      "Id": "D:\\VS\\Projects\\StudyBuddy\\StudyBuddy\\wwwroot\\assets\\Student\\BFolder.png",
+      "PackagePath": "staticwebassets\\assets\\Student\\BFolder.png"
+    },
+    {
+      "Id": "D:\\VS\\Projects\\StudyBuddy\\StudyBuddy\\wwwroot\\assets\\Student\\BNotes.png",
+      "PackagePath": "staticwebassets\\assets\\Student\\BNotes.png"
+    },
+    {
+      "Id": "D:\\VS\\Projects\\StudyBuddy\\StudyBuddy\\wwwroot\\assets\\Student\\BTrash.png",
+      "PackagePath": "staticwebassets\\assets\\Student\\BTrash.png"
+    },
+    {
+      "Id": "D:\\VS\\Projects\\StudyBuddy\\StudyBuddy\\wwwroot\\assets\\Student\\Keepy.png",
+      "PackagePath": "staticwebassets\\assets\\Student\\Keepy.png"
+    },
+    {
+      "Id": "D:\\VS\\Projects\\StudyBuddy\\StudyBuddy\\wwwroot\\assets\\Student\\Profile.png",
+      "PackagePath": "staticwebassets\\assets\\Student\\Profile.png"
+    },
+    {
+      "Id": "D:\\VS\\Projects\\StudyBuddy\\StudyBuddy\\wwwroot\\assets\\Student\\Search.png",
+      "PackagePath": "staticwebassets\\assets\\Student\\Search.png"
+    },
+    {
+      "Id": "D:\\VS\\Projects\\StudyBuddy\\StudyBuddy\\wwwroot\\assets\\Student\\Send.png",
+      "PackagePath": "staticwebassets\\assets\\Student\\Send.png"
+    },
+    {
+      "Id": "D:\\VS\\Projects\\StudyBuddy\\StudyBuddy\\wwwroot\\assets\\Student\\WConnect.png",
+      "PackagePath": "staticwebassets\\assets\\Student\\WConnect.png"
+    },
+    {
+      "Id": "D:\\VS\\Projects\\StudyBuddy\\StudyBuddy\\wwwroot\\assets\\Student\\WFolder.png",
+      "PackagePath": "staticwebassets\\assets\\Student\\WFolder.png"
+    },
+    {
+      "Id": "D:\\VS\\Projects\\StudyBuddy\\StudyBuddy\\wwwroot\\assets\\Student\\WNotes.png",
+      "PackagePath": "staticwebassets\\assets\\Student\\WNotes.png"
+    },
+    {
+      "Id": "D:\\VS\\Projects\\StudyBuddy\\StudyBuddy\\wwwroot\\assets\\Student\\WTrash.png",
+      "PackagePath": "staticwebassets\\assets\\Student\\WTrash.png"
+    },
+    {
+      "Id": "D:\\VS\\Projects\\StudyBuddy\\StudyBuddy\\wwwroot\\assets\\Student\\bg_pattern.png",
+      "PackagePath": "staticwebassets\\assets\\Student\\bg_pattern.png"
+    },
+    {
+      "Id": "D:\\VS\\Projects\\StudyBuddy\\StudyBuddy\\wwwroot\\assets\\Student\\sb_logo.png",
+      "PackagePath": "staticwebassets\\assets\\Student\\sb_logo.png"
+    },
+    {
+      "Id": "D:\\VS\\Projects\\StudyBuddy\\StudyBuddy\\wwwroot\\assets\\Student\\sb_logo_only.png",
+      "PackagePath": "staticwebassets\\assets\\Student\\sb_logo_only.png"
+    },
+    {
       "Id": "D:\\VS\\Projects\\StudyBuddy\\StudyBuddy\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },

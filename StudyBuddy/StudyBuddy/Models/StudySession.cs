@@ -10,7 +10,7 @@ namespace StudyBuddy.Models
 
         [ForeignKey("Student")]
         public int StudentId { get; set; }
-        public Student Student { get; set; }
+        public Student? Student { get; set; }
 
         public DateTime SessionDate { get; set; }
 

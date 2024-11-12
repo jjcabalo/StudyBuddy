@@ -9,7 +9,7 @@ namespace StudyBuddy.Models
         public int StudentId { get; set; }
 
         [Required]
-        public string StudentCode { get; set; }
+        public string? StudentCode { get; set; }
 
         public int StudyHours { get; set; }
 
@@ -17,6 +17,6 @@ namespace StudyBuddy.Models
 
         [ForeignKey("User")]
         public int UserId { get; set; }
-        public User User { get; set; }
+        public User? User { get; set; }
     }
 }

@@ -5,6 +5,46 @@
     {
       "AbsoluteMoniker": "D:0:0:{800C46C2-A8CB-4BEE-A2D8-167D6E4BAD0B}|StudyBuddy\\StudyBuddy.csproj|d:\\vs\\projects\\studybuddy\\studybuddy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{800C46C2-A8CB-4BEE-A2D8-167D6E4BAD0B}|StudyBuddy\\StudyBuddy.csproj|solutionrelative:studybuddy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{800C46C2-A8CB-4BEE-A2D8-167D6E4BAD0B}|StudyBuddy\\StudyBuddy.csproj|d:\\vs\\projects\\studybuddy\\studybuddy\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{800C46C2-A8CB-4BEE-A2D8-167D6E4BAD0B}|StudyBuddy\\StudyBuddy.csproj|solutionrelative:studybuddy\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{800C46C2-A8CB-4BEE-A2D8-167D6E4BAD0B}|StudyBuddy\\StudyBuddy.csproj|d:\\vs\\projects\\studybuddy\\studybuddy\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{800C46C2-A8CB-4BEE-A2D8-167D6E4BAD0B}|StudyBuddy\\StudyBuddy.csproj|solutionrelative:studybuddy\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{800C46C2-A8CB-4BEE-A2D8-167D6E4BAD0B}|StudyBuddy\\StudyBuddy.csproj|d:\\vs\\projects\\studybuddy\\studybuddy\\models\\folder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{800C46C2-A8CB-4BEE-A2D8-167D6E4BAD0B}|StudyBuddy\\StudyBuddy.csproj|solutionrelative:studybuddy\\models\\folder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{800C46C2-A8CB-4BEE-A2D8-167D6E4BAD0B}|StudyBuddy\\StudyBuddy.csproj|d:\\vs\\projects\\studybuddy\\studybuddy\\models\\note.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{800C46C2-A8CB-4BEE-A2D8-167D6E4BAD0B}|StudyBuddy\\StudyBuddy.csproj|solutionrelative:studybuddy\\models\\note.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{800C46C2-A8CB-4BEE-A2D8-167D6E4BAD0B}|StudyBuddy\\StudyBuddy.csproj|d:\\vs\\projects\\studybuddy\\studybuddy\\models\\parentstudentlink.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{800C46C2-A8CB-4BEE-A2D8-167D6E4BAD0B}|StudyBuddy\\StudyBuddy.csproj|solutionrelative:studybuddy\\models\\parentstudentlink.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{800C46C2-A8CB-4BEE-A2D8-167D6E4BAD0B}|StudyBuddy\\StudyBuddy.csproj|d:\\vs\\projects\\studybuddy\\studybuddy\\models\\unverifiedaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{800C46C2-A8CB-4BEE-A2D8-167D6E4BAD0B}|StudyBuddy\\StudyBuddy.csproj|solutionrelative:studybuddy\\models\\unverifiedaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{800C46C2-A8CB-4BEE-A2D8-167D6E4BAD0B}|StudyBuddy\\StudyBuddy.csproj|d:\\vs\\projects\\studybuddy\\studybuddy\\models\\studysession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{800C46C2-A8CB-4BEE-A2D8-167D6E4BAD0B}|StudyBuddy\\StudyBuddy.csproj|solutionrelative:studybuddy\\models\\studysession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{800C46C2-A8CB-4BEE-A2D8-167D6E4BAD0B}|StudyBuddy\\StudyBuddy.csproj|d:\\vs\\projects\\studybuddy\\studybuddy\\models\\parent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{800C46C2-A8CB-4BEE-A2D8-167D6E4BAD0B}|StudyBuddy\\StudyBuddy.csproj|solutionrelative:studybuddy\\models\\parent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{800C46C2-A8CB-4BEE-A2D8-167D6E4BAD0B}|StudyBuddy\\StudyBuddy.csproj|d:\\vs\\projects\\studybuddy\\studybuddy\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{800C46C2-A8CB-4BEE-A2D8-167D6E4BAD0B}|StudyBuddy\\StudyBuddy.csproj|solutionrelative:studybuddy\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{800C46C2-A8CB-4BEE-A2D8-167D6E4BAD0B}|StudyBuddy\\StudyBuddy.csproj|d:\\vs\\projects\\studybuddy\\studybuddy\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{800C46C2-A8CB-4BEE-A2D8-167D6E4BAD0B}|StudyBuddy\\StudyBuddy.csproj|solutionrelative:studybuddy\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +54,138 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 10,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\VS\\Projects\\StudyBuddy\\StudyBuddy\\Models\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "StudyBuddy\\Models\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\VS\\Projects\\StudyBuddy\\StudyBuddy\\Models\\ApplicationDbContext.cs",
+              "RelativeToolTip": "StudyBuddy\\Models\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T16:58:28.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\VS\\Projects\\StudyBuddy\\StudyBuddy\\appsettings.json",
+              "RelativeDocumentMoniker": "StudyBuddy\\appsettings.json",
+              "ToolTip": "D:\\VS\\Projects\\StudyBuddy\\StudyBuddy\\appsettings.json",
+              "RelativeToolTip": "StudyBuddy\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-11T16:50:58.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StudySession.cs",
+              "DocumentMoniker": "D:\\VS\\Projects\\StudyBuddy\\StudyBuddy\\Models\\StudySession.cs",
+              "RelativeDocumentMoniker": "StudyBuddy\\Models\\StudySession.cs",
+              "ToolTip": "D:\\VS\\Projects\\StudyBuddy\\StudyBuddy\\Models\\StudySession.cs",
+              "RelativeToolTip": "StudyBuddy\\Models\\StudySession.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T16:48:02.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UnverifiedAccount.cs",
+              "DocumentMoniker": "D:\\VS\\Projects\\StudyBuddy\\StudyBuddy\\Models\\UnverifiedAccount.cs",
+              "RelativeDocumentMoniker": "StudyBuddy\\Models\\UnverifiedAccount.cs",
+              "ToolTip": "D:\\VS\\Projects\\StudyBuddy\\StudyBuddy\\Models\\UnverifiedAccount.cs",
+              "RelativeToolTip": "StudyBuddy\\Models\\UnverifiedAccount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T16:47:49.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Folder.cs",
+              "DocumentMoniker": "D:\\VS\\Projects\\StudyBuddy\\StudyBuddy\\Models\\Folder.cs",
+              "RelativeDocumentMoniker": "StudyBuddy\\Models\\Folder.cs",
+              "ToolTip": "D:\\VS\\Projects\\StudyBuddy\\StudyBuddy\\Models\\Folder.cs",
+              "RelativeToolTip": "StudyBuddy\\Models\\Folder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T16:47:20.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Note.cs",
+              "DocumentMoniker": "D:\\VS\\Projects\\StudyBuddy\\StudyBuddy\\Models\\Note.cs",
+              "RelativeDocumentMoniker": "StudyBuddy\\Models\\Note.cs",
+              "ToolTip": "D:\\VS\\Projects\\StudyBuddy\\StudyBuddy\\Models\\Note.cs",
+              "RelativeToolTip": "StudyBuddy\\Models\\Note.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T16:47:07.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ParentStudentLink.cs",
+              "DocumentMoniker": "D:\\VS\\Projects\\StudyBuddy\\StudyBuddy\\Models\\ParentStudentLink.cs",
+              "RelativeDocumentMoniker": "StudyBuddy\\Models\\ParentStudentLink.cs",
+              "ToolTip": "D:\\VS\\Projects\\StudyBuddy\\StudyBuddy\\Models\\ParentStudentLink.cs",
+              "RelativeToolTip": "StudyBuddy\\Models\\ParentStudentLink.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T16:46:39.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Parent.cs",
+              "DocumentMoniker": "D:\\VS\\Projects\\StudyBuddy\\StudyBuddy\\Models\\Parent.cs",
+              "RelativeDocumentMoniker": "StudyBuddy\\Models\\Parent.cs",
+              "ToolTip": "D:\\VS\\Projects\\StudyBuddy\\StudyBuddy\\Models\\Parent.cs",
+              "RelativeToolTip": "StudyBuddy\\Models\\Parent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T16:46:17.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\VS\\Projects\\StudyBuddy\\StudyBuddy\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "StudyBuddy\\Models\\Student.cs",
+              "ToolTip": "D:\\VS\\Projects\\StudyBuddy\\StudyBuddy\\Models\\Student.cs",
+              "RelativeToolTip": "StudyBuddy\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T16:45:39.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\VS\\Projects\\StudyBuddy\\StudyBuddy\\Models\\User.cs",
+              "RelativeDocumentMoniker": "StudyBuddy\\Models\\User.cs",
+              "ToolTip": "D:\\VS\\Projects\\StudyBuddy\\StudyBuddy\\Models\\User.cs",
+              "RelativeToolTip": "StudyBuddy\\Models\\User.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAIwBwAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T16:44:58.773Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,7 +194,7 @@
               "RelativeDocumentMoniker": "StudyBuddy\\Program.cs",
               "ToolTip": "D:\\VS\\Projects\\StudyBuddy\\StudyBuddy\\Program.cs",
               "RelativeToolTip": "StudyBuddy\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-11T16:32:53.79Z",
               "EditorCaption": ""

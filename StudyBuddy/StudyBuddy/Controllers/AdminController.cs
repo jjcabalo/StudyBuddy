@@ -4,7 +4,7 @@ namespace StudyBuddy.Controllers
 {
     public class AdminController : Controller
     {
-        public IActionResult Index()
+        public IActionResult ManageAccounts()
         {
             return View();
         }
