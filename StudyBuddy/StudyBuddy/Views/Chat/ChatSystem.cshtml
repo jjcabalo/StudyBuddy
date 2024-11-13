@@ -1,0 +1,43 @@
+@{
+    ViewData["Title"] = "Chat";
+}
+    <div class="chat-container">
+        <div class="chat-box" id="chat-container">
+            <div id="messages"></div>
+        </div>
+        <div class="chat-input-area">
+            <input type="text" id="chat-input" placeholder="Type your message here..." />
+            <button id="send-btn">Send</button>
+        </div>
+    </div>
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script>
+        $(document).ready(function () {
+            $('#send-btn').click(function () {
+                var message = $('#chat-input').val();
+                if (message) {
+                    $.ajax({
+                        type: 'POST',
+                        url: '@Url.Action("SendMessage", "Chat")', // Adjust this to your controller/action
+                        data: { message: message },
+                        success: function (response) {
+                            $('#messages').append('<div class="chat-message user-message">' + message + '</div>');
+                            $('#messages').append('<div class="chat-message bot-message">' + response + '</div>');
+                            $('#chat-input').val(''); // Clear input box
+                            $('#chat-container').scrollTop($('#chat-container')[0].scrollHeight); // Scroll to the bottom
+                        },
+                        error: function () {
+                            alert('Error sending message.');
+                        }
+                    });
+                }
+            });
+
+            $('#chat-input').keypress(function (e) {
+                if (e.which == 13) {
+                    $('#send-btn').click();
+                }
+            });
+        });
+    </script>
