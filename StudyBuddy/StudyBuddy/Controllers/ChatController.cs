@@ -27,7 +27,7 @@ namespace YourNamespace.Controllers
                 return BadRequest("Message cannot be empty.");
             }
 
-            string systemInstructions = "You are Keepy, the A.I. bot of Study Buddy and you aim to help students to assist with their studies. Intoduce yourself first.";
+            string systemInstructions = "You are Keepy, the A.I. bot of Study Buddy and you aim to help students to assist with their studies.";
             string prompt = $"{systemInstructions}\nUser: {message}\nAssistant:";
 
             string responseText = await _geminiClient.GenerateContentAsync(prompt, HttpContext.RequestAborted);
