@@ -4,8 +4,12 @@ namespace StudyBuddy.Controllers
 {
     public class StudentController : Controller
     {
-        public IActionResult StudentsHome()
+        public IActionResult StudentHome()
         {
+            return View();
+        }
+
+        public IActionResult Trash() {
             return View();
         }
     }

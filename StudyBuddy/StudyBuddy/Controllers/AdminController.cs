@@ -8,5 +8,9 @@ namespace StudyBuddy.Controllers
         {
             return View();
         }
+
+        public IActionResult ParStuLinking() {
+            return View();
+        }
     }
 }

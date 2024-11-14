@@ -1,311 +1,311 @@
 {
   "Files": [
     {
-      "Id": "D:\\VS\\Projects\\StudyBuddy\\StudyBuddy\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\StudyBuddy.bundle.scp.css",
+      "Id": "C:\\Users\\user\\Documents\\Projects\\StudyBuddy\\StudyBuddy\\StudyBuddy\\StudyBuddy\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\StudyBuddy.bundle.scp.css",
       "PackagePath": "staticwebassets\\StudyBuddy.bundle.scp.css"
     },
     {
-      "Id": "D:\\VS\\Projects\\StudyBuddy\\StudyBuddy\\wwwroot\\assets\\Student\\BAdd.png",
+      "Id": "C:\\Users\\user\\Documents\\Projects\\StudyBuddy\\StudyBuddy\\StudyBuddy\\StudyBuddy\\wwwroot\\assets\\Student\\BAdd.png",
       "PackagePath": "staticwebassets\\assets\\Student\\BAdd.png"
     },
     {
-      "Id": "D:\\VS\\Projects\\StudyBuddy\\StudyBuddy\\wwwroot\\assets\\Student\\BConnect.png",
+      "Id": "C:\\Users\\user\\Documents\\Projects\\StudyBuddy\\StudyBuddy\\StudyBuddy\\StudyBuddy\\wwwroot\\assets\\Student\\BConnect.png",
       "PackagePath": "staticwebassets\\assets\\Student\\BConnect.png"
     },
     {
-      "Id": "D:\\VS\\Projects\\StudyBuddy\\StudyBuddy\\wwwroot\\assets\\Student\\BFolder.png",
+      "Id": "C:\\Users\\user\\Documents\\Projects\\StudyBuddy\\StudyBuddy\\StudyBuddy\\StudyBuddy\\wwwroot\\assets\\Student\\BFolder.png",
       "PackagePath": "staticwebassets\\assets\\Student\\BFolder.png"
     },
     {
-      "Id": "D:\\VS\\Projects\\StudyBuddy\\StudyBuddy\\wwwroot\\assets\\Student\\BNotes.png",
+      "Id": "C:\\Users\\user\\Documents\\Projects\\StudyBuddy\\StudyBuddy\\StudyBuddy\\StudyBuddy\\wwwroot\\assets\\Student\\BNotes.png",
       "PackagePath": "staticwebassets\\assets\\Student\\BNotes.png"
     },
     {
-      "Id": "D:\\VS\\Projects\\StudyBuddy\\StudyBuddy\\wwwroot\\assets\\Student\\BTrash.png",
+      "Id": "C:\\Users\\user\\Documents\\Projects\\StudyBuddy\\StudyBuddy\\StudyBuddy\\StudyBuddy\\wwwroot\\assets\\Student\\BTrash.png",
       "PackagePath": "staticwebassets\\assets\\Student\\BTrash.png"
     },
     {
-      "Id": "D:\\VS\\Projects\\StudyBuddy\\StudyBuddy\\wwwroot\\assets\\Student\\Keepy.png",
+      "Id": "C:\\Users\\user\\Documents\\Projects\\StudyBuddy\\StudyBuddy\\StudyBuddy\\StudyBuddy\\wwwroot\\assets\\Student\\Keepy.png",
       "PackagePath": "staticwebassets\\assets\\Student\\Keepy.png"
     },
     {
-      "Id": "D:\\VS\\Projects\\StudyBuddy\\StudyBuddy\\wwwroot\\assets\\Student\\Profile.png",
+      "Id": "C:\\Users\\user\\Documents\\Projects\\StudyBuddy\\StudyBuddy\\StudyBuddy\\StudyBuddy\\wwwroot\\assets\\Student\\Profile.png",
       "PackagePath": "staticwebassets\\assets\\Student\\Profile.png"
     },
     {
-      "Id": "D:\\VS\\Projects\\StudyBuddy\\StudyBuddy\\wwwroot\\assets\\Student\\Search.png",
+      "Id": "C:\\Users\\user\\Documents\\Projects\\StudyBuddy\\StudyBuddy\\StudyBuddy\\StudyBuddy\\wwwroot\\assets\\Student\\Search.png",
       "PackagePath": "staticwebassets\\assets\\Student\\Search.png"
     },
     {
-      "Id": "D:\\VS\\Projects\\StudyBuddy\\StudyBuddy\\wwwroot\\assets\\Student\\Send.png",
+      "Id": "C:\\Users\\user\\Documents\\Projects\\StudyBuddy\\StudyBuddy\\StudyBuddy\\StudyBuddy\\wwwroot\\assets\\Student\\Send.png",
       "PackagePath": "staticwebassets\\assets\\Student\\Send.png"
     },
     {
-      "Id": "D:\\VS\\Projects\\StudyBuddy\\StudyBuddy\\wwwroot\\assets\\Student\\WConnect.png",
+      "Id": "C:\\Users\\user\\Documents\\Projects\\StudyBuddy\\StudyBuddy\\StudyBuddy\\StudyBuddy\\wwwroot\\assets\\Student\\WConnect.png",
       "PackagePath": "staticwebassets\\assets\\Student\\WConnect.png"
     },
     {
-      "Id": "D:\\VS\\Projects\\StudyBuddy\\StudyBuddy\\wwwroot\\assets\\Student\\WFolder.png",
+      "Id": "C:\\Users\\user\\Documents\\Projects\\StudyBuddy\\StudyBuddy\\StudyBuddy\\StudyBuddy\\wwwroot\\assets\\Student\\WFolder.png",
       "PackagePath": "staticwebassets\\assets\\Student\\WFolder.png"
     },
     {
-      "Id": "D:\\VS\\Projects\\StudyBuddy\\StudyBuddy\\wwwroot\\assets\\Student\\WNotes.png",
+      "Id": "C:\\Users\\user\\Documents\\Projects\\StudyBuddy\\StudyBuddy\\StudyBuddy\\StudyBuddy\\wwwroot\\assets\\Student\\WNotes.png",
       "PackagePath": "staticwebassets\\assets\\Student\\WNotes.png"
     },
     {
-      "Id": "D:\\VS\\Projects\\StudyBuddy\\StudyBuddy\\wwwroot\\assets\\Student\\WTrash.png",
+      "Id": "C:\\Users\\user\\Documents\\Projects\\StudyBuddy\\StudyBuddy\\StudyBuddy\\StudyBuddy\\wwwroot\\assets\\Student\\WTrash.png",
       "PackagePath": "staticwebassets\\assets\\Student\\WTrash.png"
     },
     {
-      "Id": "D:\\VS\\Projects\\StudyBuddy\\StudyBuddy\\wwwroot\\assets\\Student\\bg_pattern.png",
+      "Id": "C:\\Users\\user\\Documents\\Projects\\StudyBuddy\\StudyBuddy\\StudyBuddy\\StudyBuddy\\wwwroot\\assets\\Student\\bg_pattern.png",
       "PackagePath": "staticwebassets\\assets\\Student\\bg_pattern.png"
     },
     {
-      "Id": "D:\\VS\\Projects\\StudyBuddy\\StudyBuddy\\wwwroot\\assets\\Student\\sb_logo.png",
+      "Id": "C:\\Users\\user\\Documents\\Projects\\StudyBuddy\\StudyBuddy\\StudyBuddy\\StudyBuddy\\wwwroot\\assets\\Student\\sb_logo.png",
       "PackagePath": "staticwebassets\\assets\\Student\\sb_logo.png"
     },
     {
-      "Id": "D:\\VS\\Projects\\StudyBuddy\\StudyBuddy\\wwwroot\\assets\\Student\\sb_logo_only.png",
+      "Id": "C:\\Users\\user\\Documents\\Projects\\StudyBuddy\\StudyBuddy\\StudyBuddy\\StudyBuddy\\wwwroot\\assets\\Student\\sb_logo_only.png",
       "PackagePath": "staticwebassets\\assets\\Student\\sb_logo_only.png"
     },
     {
-      "Id": "D:\\VS\\Projects\\StudyBuddy\\StudyBuddy\\wwwroot\\css\\site.css",
+      "Id": "C:\\Users\\user\\Documents\\Projects\\StudyBuddy\\StudyBuddy\\StudyBuddy\\StudyBuddy\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "D:\\VS\\Projects\\StudyBuddy\\StudyBuddy\\wwwroot\\favicon.ico",
+      "Id": "C:\\Users\\user\\Documents\\Projects\\StudyBuddy\\StudyBuddy\\StudyBuddy\\StudyBuddy\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "D:\\VS\\Projects\\StudyBuddy\\StudyBuddy\\wwwroot\\js\\site.js",
+      "Id": "C:\\Users\\user\\Documents\\Projects\\StudyBuddy\\StudyBuddy\\StudyBuddy\\StudyBuddy\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "D:\\VS\\Projects\\StudyBuddy\\StudyBuddy\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "C:\\Users\\user\\Documents\\Projects\\StudyBuddy\\StudyBuddy\\StudyBuddy\\StudyBuddy\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "D:\\VS\\Projects\\StudyBuddy\\StudyBuddy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "C:\\Users\\user\\Documents\\Projects\\StudyBuddy\\StudyBuddy\\StudyBuddy\\StudyBuddy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "D:\\VS\\Projects\\StudyBuddy\\StudyBuddy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "C:\\Users\\user\\Documents\\Projects\\StudyBuddy\\StudyBuddy\\StudyBuddy\\StudyBuddy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "D:\\VS\\Projects\\StudyBuddy\\StudyBuddy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "C:\\Users\\user\\Documents\\Projects\\StudyBuddy\\StudyBuddy\\StudyBuddy\\StudyBuddy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "D:\\VS\\Projects\\StudyBuddy\\StudyBuddy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "C:\\Users\\user\\Documents\\Projects\\StudyBuddy\\StudyBuddy\\StudyBuddy\\StudyBuddy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "D:\\VS\\Projects\\StudyBuddy\\StudyBuddy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Id": "C:\\Users\\user\\Documents\\Projects\\StudyBuddy\\StudyBuddy\\StudyBuddy\\StudyBuddy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "D:\\VS\\Projects\\StudyBuddy\\StudyBuddy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "C:\\Users\\user\\Documents\\Projects\\StudyBuddy\\StudyBuddy\\StudyBuddy\\StudyBuddy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "D:\\VS\\Projects\\StudyBuddy\\StudyBuddy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "C:\\Users\\user\\Documents\\Projects\\StudyBuddy\\StudyBuddy\\StudyBuddy\\StudyBuddy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "D:\\VS\\Projects\\StudyBuddy\\StudyBuddy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "C:\\Users\\user\\Documents\\Projects\\StudyBuddy\\StudyBuddy\\StudyBuddy\\StudyBuddy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "D:\\VS\\Projects\\StudyBuddy\\StudyBuddy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "C:\\Users\\user\\Documents\\Projects\\StudyBuddy\\StudyBuddy\\StudyBuddy\\StudyBuddy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "D:\\VS\\Projects\\StudyBuddy\\StudyBuddy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "C:\\Users\\user\\Documents\\Projects\\StudyBuddy\\StudyBuddy\\StudyBuddy\\StudyBuddy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "D:\\VS\\Projects\\StudyBuddy\\StudyBuddy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "C:\\Users\\user\\Documents\\Projects\\StudyBuddy\\StudyBuddy\\StudyBuddy\\StudyBuddy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "D:\\VS\\Projects\\StudyBuddy\\StudyBuddy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "C:\\Users\\user\\Documents\\Projects\\StudyBuddy\\StudyBuddy\\StudyBuddy\\StudyBuddy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "D:\\VS\\Projects\\StudyBuddy\\StudyBuddy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Id": "C:\\Users\\user\\Documents\\Projects\\StudyBuddy\\StudyBuddy\\StudyBuddy\\StudyBuddy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "D:\\VS\\Projects\\StudyBuddy\\StudyBuddy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "C:\\Users\\user\\Documents\\Projects\\StudyBuddy\\StudyBuddy\\StudyBuddy\\StudyBuddy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "D:\\VS\\Projects\\StudyBuddy\\StudyBuddy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "C:\\Users\\user\\Documents\\Projects\\StudyBuddy\\StudyBuddy\\StudyBuddy\\StudyBuddy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "D:\\VS\\Projects\\StudyBuddy\\StudyBuddy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "C:\\Users\\user\\Documents\\Projects\\StudyBuddy\\StudyBuddy\\StudyBuddy\\StudyBuddy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "D:\\VS\\Projects\\StudyBuddy\\StudyBuddy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Id": "C:\\Users\\user\\Documents\\Projects\\StudyBuddy\\StudyBuddy\\StudyBuddy\\StudyBuddy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "D:\\VS\\Projects\\StudyBuddy\\StudyBuddy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Id": "C:\\Users\\user\\Documents\\Projects\\StudyBuddy\\StudyBuddy\\StudyBuddy\\StudyBuddy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "D:\\VS\\Projects\\StudyBuddy\\StudyBuddy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Id": "C:\\Users\\user\\Documents\\Projects\\StudyBuddy\\StudyBuddy\\StudyBuddy\\StudyBuddy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "D:\\VS\\Projects\\StudyBuddy\\StudyBuddy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Id": "C:\\Users\\user\\Documents\\Projects\\StudyBuddy\\StudyBuddy\\StudyBuddy\\StudyBuddy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "D:\\VS\\Projects\\StudyBuddy\\StudyBuddy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Id": "C:\\Users\\user\\Documents\\Projects\\StudyBuddy\\StudyBuddy\\StudyBuddy\\StudyBuddy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "D:\\VS\\Projects\\StudyBuddy\\StudyBuddy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "C:\\Users\\user\\Documents\\Projects\\StudyBuddy\\StudyBuddy\\StudyBuddy\\StudyBuddy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "D:\\VS\\Projects\\StudyBuddy\\StudyBuddy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "C:\\Users\\user\\Documents\\Projects\\StudyBuddy\\StudyBuddy\\StudyBuddy\\StudyBuddy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "D:\\VS\\Projects\\StudyBuddy\\StudyBuddy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "C:\\Users\\user\\Documents\\Projects\\StudyBuddy\\StudyBuddy\\StudyBuddy\\StudyBuddy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "D:\\VS\\Projects\\StudyBuddy\\StudyBuddy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "C:\\Users\\user\\Documents\\Projects\\StudyBuddy\\StudyBuddy\\StudyBuddy\\StudyBuddy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "D:\\VS\\Projects\\StudyBuddy\\StudyBuddy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "C:\\Users\\user\\Documents\\Projects\\StudyBuddy\\StudyBuddy\\StudyBuddy\\StudyBuddy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "D:\\VS\\Projects\\StudyBuddy\\StudyBuddy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "C:\\Users\\user\\Documents\\Projects\\StudyBuddy\\StudyBuddy\\StudyBuddy\\StudyBuddy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "D:\\VS\\Projects\\StudyBuddy\\StudyBuddy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "C:\\Users\\user\\Documents\\Projects\\StudyBuddy\\StudyBuddy\\StudyBuddy\\StudyBuddy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "D:\\VS\\Projects\\StudyBuddy\\StudyBuddy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Id": "C:\\Users\\user\\Documents\\Projects\\StudyBuddy\\StudyBuddy\\StudyBuddy\\StudyBuddy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "D:\\VS\\Projects\\StudyBuddy\\StudyBuddy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Id": "C:\\Users\\user\\Documents\\Projects\\StudyBuddy\\StudyBuddy\\StudyBuddy\\StudyBuddy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "D:\\VS\\Projects\\StudyBuddy\\StudyBuddy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Id": "C:\\Users\\user\\Documents\\Projects\\StudyBuddy\\StudyBuddy\\StudyBuddy\\StudyBuddy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "D:\\VS\\Projects\\StudyBuddy\\StudyBuddy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Id": "C:\\Users\\user\\Documents\\Projects\\StudyBuddy\\StudyBuddy\\StudyBuddy\\StudyBuddy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "D:\\VS\\Projects\\StudyBuddy\\StudyBuddy\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "C:\\Users\\user\\Documents\\Projects\\StudyBuddy\\StudyBuddy\\StudyBuddy\\StudyBuddy\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "D:\\VS\\Projects\\StudyBuddy\\StudyBuddy\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "C:\\Users\\user\\Documents\\Projects\\StudyBuddy\\StudyBuddy\\StudyBuddy\\StudyBuddy\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "D:\\VS\\Projects\\StudyBuddy\\StudyBuddy\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "C:\\Users\\user\\Documents\\Projects\\StudyBuddy\\StudyBuddy\\StudyBuddy\\StudyBuddy\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "D:\\VS\\Projects\\StudyBuddy\\StudyBuddy\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "C:\\Users\\user\\Documents\\Projects\\StudyBuddy\\StudyBuddy\\StudyBuddy\\StudyBuddy\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "D:\\VS\\Projects\\StudyBuddy\\StudyBuddy\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Id": "C:\\Users\\user\\Documents\\Projects\\StudyBuddy\\StudyBuddy\\StudyBuddy\\StudyBuddy\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "D:\\VS\\Projects\\StudyBuddy\\StudyBuddy\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Id": "C:\\Users\\user\\Documents\\Projects\\StudyBuddy\\StudyBuddy\\StudyBuddy\\StudyBuddy\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "D:\\VS\\Projects\\StudyBuddy\\StudyBuddy\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Id": "C:\\Users\\user\\Documents\\Projects\\StudyBuddy\\StudyBuddy\\StudyBuddy\\StudyBuddy\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "D:\\VS\\Projects\\StudyBuddy\\StudyBuddy\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Id": "C:\\Users\\user\\Documents\\Projects\\StudyBuddy\\StudyBuddy\\StudyBuddy\\StudyBuddy\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "D:\\VS\\Projects\\StudyBuddy\\StudyBuddy\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "C:\\Users\\user\\Documents\\Projects\\StudyBuddy\\StudyBuddy\\StudyBuddy\\StudyBuddy\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "D:\\VS\\Projects\\StudyBuddy\\StudyBuddy\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "C:\\Users\\user\\Documents\\Projects\\StudyBuddy\\StudyBuddy\\StudyBuddy\\StudyBuddy\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "D:\\VS\\Projects\\StudyBuddy\\StudyBuddy\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "C:\\Users\\user\\Documents\\Projects\\StudyBuddy\\StudyBuddy\\StudyBuddy\\StudyBuddy\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "D:\\VS\\Projects\\StudyBuddy\\StudyBuddy\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "C:\\Users\\user\\Documents\\Projects\\StudyBuddy\\StudyBuddy\\StudyBuddy\\StudyBuddy\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "D:\\VS\\Projects\\StudyBuddy\\StudyBuddy\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "C:\\Users\\user\\Documents\\Projects\\StudyBuddy\\StudyBuddy\\StudyBuddy\\StudyBuddy\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "D:\\VS\\Projects\\StudyBuddy\\StudyBuddy\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Id": "C:\\Users\\user\\Documents\\Projects\\StudyBuddy\\StudyBuddy\\StudyBuddy\\StudyBuddy\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "D:\\VS\\Projects\\StudyBuddy\\StudyBuddy\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Id": "C:\\Users\\user\\Documents\\Projects\\StudyBuddy\\StudyBuddy\\StudyBuddy\\StudyBuddy\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "D:\\VS\\Projects\\StudyBuddy\\StudyBuddy\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "C:\\Users\\user\\Documents\\Projects\\StudyBuddy\\StudyBuddy\\StudyBuddy\\StudyBuddy\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "D:\\VS\\Projects\\StudyBuddy\\StudyBuddy\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "C:\\Users\\user\\Documents\\Projects\\StudyBuddy\\StudyBuddy\\StudyBuddy\\StudyBuddy\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "D:\\VS\\Projects\\StudyBuddy\\StudyBuddy\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "C:\\Users\\user\\Documents\\Projects\\StudyBuddy\\StudyBuddy\\StudyBuddy\\StudyBuddy\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "D:\\VS\\Projects\\StudyBuddy\\StudyBuddy\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "C:\\Users\\user\\Documents\\Projects\\StudyBuddy\\StudyBuddy\\StudyBuddy\\StudyBuddy\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "D:\\VS\\Projects\\StudyBuddy\\StudyBuddy\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "C:\\Users\\user\\Documents\\Projects\\StudyBuddy\\StudyBuddy\\StudyBuddy\\StudyBuddy\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "D:\\VS\\Projects\\StudyBuddy\\StudyBuddy\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "C:\\Users\\user\\Documents\\Projects\\StudyBuddy\\StudyBuddy\\StudyBuddy\\StudyBuddy\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "D:\\VS\\Projects\\StudyBuddy\\StudyBuddy\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "C:\\Users\\user\\Documents\\Projects\\StudyBuddy\\StudyBuddy\\StudyBuddy\\StudyBuddy\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "D:\\VS\\Projects\\StudyBuddy\\StudyBuddy\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "C:\\Users\\user\\Documents\\Projects\\StudyBuddy\\StudyBuddy\\StudyBuddy\\StudyBuddy\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "D:\\VS\\Projects\\StudyBuddy\\StudyBuddy\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "C:\\Users\\user\\Documents\\Projects\\StudyBuddy\\StudyBuddy\\StudyBuddy\\StudyBuddy\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {

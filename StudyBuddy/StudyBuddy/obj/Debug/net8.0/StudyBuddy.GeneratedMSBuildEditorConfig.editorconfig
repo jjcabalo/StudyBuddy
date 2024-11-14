@@ -54,16 +54,16 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hhdFxDaGF0U3lzdGVtLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Documents/Projects/StudyBuddy/StudyBuddy/StudyBuddy/StudyBuddy/Views/Parent/PAccountInfo.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFyZW50XFBBY2NvdW50SW5mby5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
 [C:/Users/user/Documents/Projects/StudyBuddy/StudyBuddy/StudyBuddy/StudyBuddy/Views/Parent/StudentManagement.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFyZW50XFN0dWRlbnRNYW5hZ2VtZW50LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/user/Documents/Projects/StudyBuddy/StudyBuddy/StudyBuddy/StudyBuddy/Views/Parent/_ConnectToStudent.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFyZW50XF9Db25uZWN0VG9TdHVkZW50LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Documents/Projects/StudyBuddy/StudyBuddy/StudyBuddy/StudyBuddy/Views/Parent/_PAccountInfo.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFyZW50XF9QQWNjb3VudEluZm8uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/user/Documents/Projects/StudyBuddy/StudyBuddy/StudyBuddy/StudyBuddy/Views/Shared/Error.cshtml]
@@ -74,14 +74,6 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Documents/Projects/StudyBuddy/StudyBuddy/StudyBuddy/StudyBuddy/Views/Student/AddNote.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudFxBZGROb3RlLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/user/Documents/Projects/StudyBuddy/StudyBuddy/StudyBuddy/StudyBuddy/Views/Student/SAccountInfo.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudFxTQWNjb3VudEluZm8uY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
 [C:/Users/user/Documents/Projects/StudyBuddy/StudyBuddy/StudyBuddy/StudyBuddy/Views/Student/StudentHome.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudFxTdHVkZW50SG9tZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
@@ -90,12 +82,20 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudFxUcmFzaC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/user/Documents/Projects/StudyBuddy/StudyBuddy/StudyBuddy/StudyBuddy/Views/Student/_AddNote.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudFxfQWRkTm90ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/user/Documents/Projects/StudyBuddy/StudyBuddy/StudyBuddy/StudyBuddy/Views/Student/_ConnectToParent.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudFxfQ29ubmVjdFRvUGFyZW50LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/user/Documents/Projects/StudyBuddy/StudyBuddy/StudyBuddy/StudyBuddy/Views/Student/_RemoveParent.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudFxfUmVtb3ZlUGFyZW50LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Documents/Projects/StudyBuddy/StudyBuddy/StudyBuddy/StudyBuddy/Views/Student/_SAccountInfo.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudFxfU0FjY291bnRJbmZvLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/user/Documents/Projects/StudyBuddy/StudyBuddy/StudyBuddy/StudyBuddy/Views/_ViewImports.cshtml]
