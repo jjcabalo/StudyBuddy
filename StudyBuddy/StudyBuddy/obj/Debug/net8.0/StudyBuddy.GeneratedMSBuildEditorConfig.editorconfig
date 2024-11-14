@@ -9,103 +9,103 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = StudyBuddy
 build_property.RootNamespace = StudyBuddy
-build_property.ProjectDir = D:\VS\Projects\StudyBuddy\StudyBuddy\
+build_property.ProjectDir = C:\Users\user\Documents\Projects\StudyBuddy\StudyBuddy\StudyBuddy\StudyBuddy\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\VS\Projects\StudyBuddy\StudyBuddy
+build_property.MSBuildProjectDirectory = C:\Users\user\Documents\Projects\StudyBuddy\StudyBuddy\StudyBuddy\StudyBuddy
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/VS/Projects/StudyBuddy/StudyBuddy/Views/Account/ChangePassword.cshtml]
+[C:/Users/user/Documents/Projects/StudyBuddy/StudyBuddy/StudyBuddy/StudyBuddy/Views/Account/ChangePassword.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxDaGFuZ2VQYXNzd29yZC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/VS/Projects/StudyBuddy/StudyBuddy/Views/Account/FillInformation.cshtml]
+[C:/Users/user/Documents/Projects/StudyBuddy/StudyBuddy/StudyBuddy/StudyBuddy/Views/Account/FillInformation.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxGaWxsSW5mb3JtYXRpb24uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/VS/Projects/StudyBuddy/StudyBuddy/Views/Account/ForgotPassword.cshtml]
+[C:/Users/user/Documents/Projects/StudyBuddy/StudyBuddy/StudyBuddy/StudyBuddy/Views/Account/ForgotPassword.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxGb3Jnb3RQYXNzd29yZC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/VS/Projects/StudyBuddy/StudyBuddy/Views/Account/Login.cshtml]
+[C:/Users/user/Documents/Projects/StudyBuddy/StudyBuddy/StudyBuddy/StudyBuddy/Views/Account/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2dpbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/VS/Projects/StudyBuddy/StudyBuddy/Views/Account/Register.cshtml]
+[C:/Users/user/Documents/Projects/StudyBuddy/StudyBuddy/StudyBuddy/StudyBuddy/Views/Account/Register.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/VS/Projects/StudyBuddy/StudyBuddy/Views/Account/SelectUserType.cshtml]
+[C:/Users/user/Documents/Projects/StudyBuddy/StudyBuddy/StudyBuddy/StudyBuddy/Views/Account/SelectUserType.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxTZWxlY3RVc2VyVHlwZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/VS/Projects/StudyBuddy/StudyBuddy/Views/Admin/ManageAccounts.cshtml]
+[C:/Users/user/Documents/Projects/StudyBuddy/StudyBuddy/StudyBuddy/StudyBuddy/Views/Admin/ManageAccounts.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cTWFuYWdlQWNjb3VudHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/VS/Projects/StudyBuddy/StudyBuddy/Views/Admin/ParStuLinking.cshtml]
+[C:/Users/user/Documents/Projects/StudyBuddy/StudyBuddy/StudyBuddy/StudyBuddy/Views/Admin/ParStuLinking.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cUGFyU3R1TGlua2luZy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/VS/Projects/StudyBuddy/StudyBuddy/Views/Chat/ChatSystem.cshtml]
+[C:/Users/user/Documents/Projects/StudyBuddy/StudyBuddy/StudyBuddy/StudyBuddy/Views/Chat/ChatSystem.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hhdFxDaGF0U3lzdGVtLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/VS/Projects/StudyBuddy/StudyBuddy/Views/Parent/PAccountInfo.cshtml]
+[C:/Users/user/Documents/Projects/StudyBuddy/StudyBuddy/StudyBuddy/StudyBuddy/Views/Parent/PAccountInfo.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFyZW50XFBBY2NvdW50SW5mby5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/VS/Projects/StudyBuddy/StudyBuddy/Views/Parent/StudentManagement.cshtml]
+[C:/Users/user/Documents/Projects/StudyBuddy/StudyBuddy/StudyBuddy/StudyBuddy/Views/Parent/StudentManagement.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFyZW50XFN0dWRlbnRNYW5hZ2VtZW50LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/VS/Projects/StudyBuddy/StudyBuddy/Views/Parent/_ConnectToStudent.cshtml]
+[C:/Users/user/Documents/Projects/StudyBuddy/StudyBuddy/StudyBuddy/StudyBuddy/Views/Parent/_ConnectToStudent.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFyZW50XF9Db25uZWN0VG9TdHVkZW50LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/VS/Projects/StudyBuddy/StudyBuddy/Views/Shared/Error.cshtml]
+[C:/Users/user/Documents/Projects/StudyBuddy/StudyBuddy/StudyBuddy/StudyBuddy/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/VS/Projects/StudyBuddy/StudyBuddy/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/user/Documents/Projects/StudyBuddy/StudyBuddy/StudyBuddy/StudyBuddy/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/VS/Projects/StudyBuddy/StudyBuddy/Views/Student/AddNote.cshtml]
+[C:/Users/user/Documents/Projects/StudyBuddy/StudyBuddy/StudyBuddy/StudyBuddy/Views/Student/AddNote.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudFxBZGROb3RlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/VS/Projects/StudyBuddy/StudyBuddy/Views/Student/SAccountInfo.cshtml]
+[C:/Users/user/Documents/Projects/StudyBuddy/StudyBuddy/StudyBuddy/StudyBuddy/Views/Student/SAccountInfo.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudFxTQWNjb3VudEluZm8uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/VS/Projects/StudyBuddy/StudyBuddy/Views/Student/StudentHome.cshtml]
+[C:/Users/user/Documents/Projects/StudyBuddy/StudyBuddy/StudyBuddy/StudyBuddy/Views/Student/StudentHome.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudFxTdHVkZW50SG9tZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/VS/Projects/StudyBuddy/StudyBuddy/Views/Student/Trash.cshtml]
+[C:/Users/user/Documents/Projects/StudyBuddy/StudyBuddy/StudyBuddy/StudyBuddy/Views/Student/Trash.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudFxUcmFzaC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/VS/Projects/StudyBuddy/StudyBuddy/Views/Student/_ConnectToParent.cshtml]
+[C:/Users/user/Documents/Projects/StudyBuddy/StudyBuddy/StudyBuddy/StudyBuddy/Views/Student/_ConnectToParent.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudFxfQ29ubmVjdFRvUGFyZW50LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/VS/Projects/StudyBuddy/StudyBuddy/Views/Student/_RemoveParent.cshtml]
+[C:/Users/user/Documents/Projects/StudyBuddy/StudyBuddy/StudyBuddy/StudyBuddy/Views/Student/_RemoveParent.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudFxfUmVtb3ZlUGFyZW50LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/VS/Projects/StudyBuddy/StudyBuddy/Views/_ViewImports.cshtml]
+[C:/Users/user/Documents/Projects/StudyBuddy/StudyBuddy/StudyBuddy/StudyBuddy/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/VS/Projects/StudyBuddy/StudyBuddy/Views/_ViewStart.cshtml]
+[C:/Users/user/Documents/Projects/StudyBuddy/StudyBuddy/StudyBuddy/StudyBuddy/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/VS/Projects/StudyBuddy/StudyBuddy/Views/Shared/_HeaderAndSC.cshtml]
+[C:/Users/user/Documents/Projects/StudyBuddy/StudyBuddy/StudyBuddy/StudyBuddy/Views/Shared/_HeaderAndSC.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9IZWFkZXJBbmRTQy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = b-85u1bu6yhm
