@@ -1,43 +1,51 @@
-@{
-    ViewData["Title"] = "Chat";
-}
-    <div class="chat-container">
-        <div class="chat-box" id="chat-container">
-            <div id="messages"></div>
+@model List<StudyBuddy.Models.ChatMessage>
+
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Chat</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+</head>
+
+<body>
+    <div>
+        <h2>Chat</h2>
+        <div id="chatBox" style="border: 1px solid #ccc; padding: 10px; height: 300px; overflow-y: scroll;">
+            @foreach (var message in Model)
+            {
+                <div><strong>@(message.Role == "user" ? "You" : "Bot"):</strong> @message.Parts[0].Text</div>
+            }
         </div>
-        <div class="chat-input-area">
-            <input type="text" id="chat-input" placeholder="Type your message here..." />
-            <button id="send-btn">Send</button>
-        </div>
+        <input type="text" id="messageInput" placeholder="Type your message here..." />
+        <button id="sendButton">Send</button>
     </div>
 
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
     <script>
-        $(document).ready(function () {
-            $('#send-btn').click(function () {
-                var message = $('#chat-input').val();
-                if (message) {
-                    $.ajax({
-                        type: 'POST',
-                        url: '@Url.Action("SendMessage", "Chat")', // Adjust this to your controller/action
-                        data: { message: message },
-                        success: function (response) {
-                            $('#messages').append('<div class="chat-message user-message">' + message + '</div>');
-                            $('#messages').append('<div class="chat-message bot-message">' + response + '</div>');
-                            $('#chat-input').val(''); // Clear input box
-                            $('#chat-container').scrollTop($('#chat-container')[0].scrollHeight); // Scroll to the bottom
-                        },
-                        error: function () {
-                            alert('Error sending message.');
-                        }
-                    });
+        $(document).ready(function ()
+        {
+            $('#sendButton').click(function ()
+            {
+                var message = $('#messageInput').val();
+                if (message.trim() === '')
+                {
+                    alert('Please enter a message.');
+                    return;
                 }
-            });
-
-            $('#chat-input').keypress(function (e) {
-                if (e.which == 13) {
-                    $('#send-btn').click();
-                }
+                $.post('/Chat/SendMessage', { message: message }, function (data)
+                {
+                    $('#chatBox').append('<div><strong>You:</strong> ' + message + '</div>');
+                    $('#chatBox').append('<div><strong>Bot:</strong> ' + data.response + '</div>');
+                    $('#messageInput').val('');
+                }).fail(function (xhr, status, error)
+                {
+                    alert('Error: ' + error);
+                });
             });
         });
     </script>
+</body>
+
+</html>

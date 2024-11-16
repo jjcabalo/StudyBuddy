@@ -1,11 +1,8 @@
 using Microsoft.EntityFrameworkCore;
 using Pomelo.EntityFrameworkCore.MySql.Infrastructure;
-using StudyBuddy.Extensions;
+using StudyBuddy.Services;
 
 var builder = WebApplication.CreateBuilder(args);
-
-builder.Services.AddControllersWithViews();
-builder.Services.AddGemini(builder.Configuration);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
@@ -14,6 +11,19 @@ builder.Services.AddDbContext<ApplicationDbContext>(options =>
     options.UseMySql(builder.Configuration.GetConnectionString("DefaultConnection"),
     new MySqlServerVersion(new Version(8, 0, 21)) // Set the correct version of your MySQL server
 ));
+
+builder.Services.AddHttpClient<GoogleApiService>(client =>
+{
+    // Configure the HttpClient if needed
+});
+
+builder.Services.AddSingleton(provider =>
+{
+    var configuration = provider.GetRequiredService<IConfiguration>();
+    var apiKey = configuration["GoogleApi:ApiKey"];
+    var logger = provider.GetRequiredService<ILogger<GoogleApiService>>();
+    return new GoogleApiService(provider.GetRequiredService<HttpClient>(), apiKey, logger);
+});
 
 var app = builder.Build();
 
@@ -34,6 +44,6 @@ app.UseAuthorization();
 
 app.MapControllerRoute(
     name: "default",
-    pattern: "{controller=Chat}/{action=ChatSystem}/{id?}"); //WHERE TO CHANGE WHERE THE PROGRAM STARTS
+    pattern: "{controller=Account}/{action=Login}/{id?}");
 
 app.Run();
